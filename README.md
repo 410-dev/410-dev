@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on - Amnesty PLUS Group
 - 🌱 I’m currently learning - Grade 12 Courses in CA / ☕️Script
-- 📫 How to reach me - [hysong@h410.dev](mailto:me@hysong.dev)
+- 📫 How to reach me - [me@hysong.dev](mailto:me@hysong.dev)
 - 💻 I write code in - ☕️ & ☕️Script
   
   
