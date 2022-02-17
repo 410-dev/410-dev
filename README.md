@@ -18,6 +18,7 @@
   <img src = "https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/></a>
   <img src = "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/></a>
   <img src = "https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   
   <img src = "https://img.shields.io/badge/Java%20Server%20Page-FF7800?style=for-the-badge&logo=apache&logoColor=white"/></a>
   <img src = "https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/></a>
@@ -28,7 +29,14 @@
   <img src = "https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
   <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>
   <img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/></a>
+  
+  <img src = "https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/IntelliJ%20Idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white"/></a>
+  
   <img src = "https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white"/></a>
+  <img src = "https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
   
   <img src = "https://img.shields.io/badge/Minecraft%20Command-62B47A?style=for-the-badge&logo=minecraft&logoColor=white"/></a>
 </div>
